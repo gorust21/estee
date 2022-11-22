@@ -1,0 +1,50 @@
+
+`	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(ô“ˆ¤ÿÿÿÿÿ
+`	java:S112v"FDefine and throw a dedicated exception instead of using a generic one.(¹èŒØùÿÿÿÿ
+l
+java:S1149F"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(—˜âÿ
+U
+java:S11183":Add a private constructor to hide the implicit public one.(¿²Ö—øÿÿÿÿ
+W
+java:S10755"ARefactor your code to get this URI from a customizable parameter.(ó‚–Š
+Q	java:S125E"<This block of commented-out lines of code should be removed.(óª‘Á
+H
+java:S1874m"-Remove this use of "UTF_8"; it is deprecated.(ï¨àöýÿÿÿÿ
+V
+java:S1854x";Remove this useless assignment to local variable "nowTime".(ë¿¯™ùÿÿÿÿ
+G
+java:S1481x",Remove this unused "nowTime" local variable.(ë¿¯™ùÿÿÿÿ
+Q	java:S125{"<This block of commented-out lines of code should be removed.(ÏçÜØ
+W	java:S125•"<This block of commented-out lines of code should be removed.(Ú‘üƒùÿÿÿÿ
+J
+java:S1172¦"3Remove this unused method parameter "outputStream".(¿÷ñü
+W	java:S125¶"<This block of commented-out lines of code should be removed.(˜Éí¤ùÿÿÿÿ
+d	java:S100Ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©òøŸ
+\
+java:S1192H"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ÖÞç€
+c
+java:S2184Ö"GCast one of the operands of this multiplication operation to a "float".(ôãÈäþÿÿÿÿ
+c
+java:S2184Ö"GCast one of the operands of this multiplication operation to a "float".(ôãÈäþÿÿÿÿ
+]
+java:S2184Ö"ACast one of the operands of this division operation to a "float".(ôãÈäþÿÿÿÿ
+]
+java:S2184Ö"ACast one of the operands of this division operation to a "float".(ôãÈäþÿÿÿÿ
+X
+java:S2184Ý"ACast one of the operands of this addition operation to a "float".(£è°þ
+X
+java:S2184Ý"ACast one of the operands of this addition operation to a "float".(£è°þ
+[
+java:S2184Ý"DCast one of the operands of this subtraction operation to a "float".(£è°þ
+[
+java:S2184Ý"DCast one of the operands of this subtraction operation to a "float".(£è°þ
+;
+java:S1640¬"Convert this Map to an EnumMap.(ýƒË¾ûÿÿÿÿ
+d
+java:S1226_"IIntroduce a new variable instead of reusing the parameter "outputStream".(ÛƒÇˆÿÿÿÿÿ
+[
+java:S2259"DA "NullPointerException" could be thrown; "result" is nullable here.(Ñý¸‰
+j
+java:S2095”"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ûÍ¶öþÿÿÿÿ
+g
+java:S2095i"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê

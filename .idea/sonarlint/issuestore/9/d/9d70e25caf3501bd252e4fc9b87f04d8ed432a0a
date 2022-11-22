@@ -1,0 +1,15 @@
+
+[	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(ÀŒ–É
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(›×–ıÿÿÿÿ
+—
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ûşñ
+—
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã’
+U
+java:S1161":Add the "@Override" annotation above this method signature(Ìõãßÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(€À¼Á
+V	java:S125#"<This block of commented-out lines of code should be removed.(´®çéøÿÿÿÿ
+J
+java:S1066)"/Merge this if statement with the enclosing one.(£§’ùÿÿÿÿ
+T
+java:S3516"9Refactor this method to not always return the same value.(Ìõãßÿÿÿÿÿ
